@@ -1,7 +1,7 @@
-"""BORDE / FROSSARD"""
+"""FROSSARD"""
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-"                      Ligne de Partage des Eaux                          "
+"                 Ligne de Partage des Eaux / Watershed                   "
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 import numpy as np
 import cv2
